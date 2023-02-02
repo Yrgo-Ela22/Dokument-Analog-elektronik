@@ -8,3 +8,12 @@ Kapitel 4 behandlar olika typer av transistorförstärkare, både med BJT- samt 
 
 Se övningsuppgifter med lösningsförslag som behandlar materialet här:
 https://github.com/Yrgo-Ela22/Uppgifter-Analog-elektronik.git
+
+Se video tutorials som behandlar konstruktion av OP-förstärkare (inspelat 2021-02-07) här: 
+
+Del I - https://youtu.be/dzY6DlLM2KQ
+
+Del II - https://youtu.be/xN-EsW7u-No
+
+I den första delen implementeras en icke-inverterande OP-förstärkarkoppling i LTspice och testas, inklusive överstyrning.
+I den andra delen konstrueras en enkel OP-förstärkare från scratch via BJT-transistorer.
